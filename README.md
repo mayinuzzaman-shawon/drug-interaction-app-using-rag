@@ -35,3 +35,6 @@ The system allows users to input questions about specific drug interactions, and
 ```bash
 git clone https://github.com/your-username/drug-interaction-identification.git
 cd drug-interaction-identification
+
+
+![Alt text](assets/drug-interaction-app-ui.png)
